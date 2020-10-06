@@ -30,6 +30,7 @@ jobs:
 
     - name: run api with flask
       run: |
+        ifconfig
         python api.py
 
     - name: Test with pytest
