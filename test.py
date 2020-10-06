@@ -5,7 +5,7 @@
 #Date: 29 September 2020 
 
 # importing required library
-from api import app
+#from api import app
 import pytest
 import requests
 import json
